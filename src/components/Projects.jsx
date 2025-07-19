@@ -48,7 +48,7 @@ export const Projects = () => {
         >
           <motion.div
             className="project-image"
-            style={{ backgroundImage: "url(/public/projects/landingpage.png)" }}
+            style={{ backgroundImage: "url(/projects/landingpage.png)" }}
           />
           <h3>Landing Page</h3>
           <p>
@@ -72,7 +72,7 @@ export const Projects = () => {
           <motion.div
             className="project-image"
             style={{
-              backgroundImage: "url(/public/projects/restfulapi.png)",
+              backgroundImage: "url(/projects/restfulapi.png)",
             }}
           />
           <h3>RESTful API</h3>
@@ -95,7 +95,7 @@ export const Projects = () => {
         >
           <motion.div
             className="project-image"
-            style={{ backgroundImage: "url(/public/projects/todolist.png)" }}
+            style={{ backgroundImage: "url(/projects/todolist.png)" }}
           />
           <h3>To-Do List</h3>
           <p>
